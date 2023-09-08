@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+}
+H1 {
+    color: rgb(0, 255, 213);
+}
+P{
+    color: rgb(240, 238, 238)
+    
+}
+H2{
+    color: rgb(22, 233, 3);
+}
+table{
+    color: rgb(243, 243, 248);
+    font-size: 20px;
+}
+button {
+    padding: 10px;
+}
